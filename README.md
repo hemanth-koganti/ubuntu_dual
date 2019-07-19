@@ -6,3 +6,5 @@ after installation
 install aptitude
 add ppa repository for drivers
 sudo aptitude install nvidia-driver-410
+
+3. Assign /temp, /HOME, /
